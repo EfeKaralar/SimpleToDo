@@ -4,7 +4,7 @@
 
 Submitted by: **Alp Efe Karalar**
 
-Time spent: **5** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
